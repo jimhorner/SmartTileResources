@@ -1,0 +1,2 @@
+# SmartTileResources
+Resources for smartTiles 
